@@ -1,0 +1,6 @@
+com\nikhil\Quiz\Application\service\QuizService.class
+com\nikhil\Quiz\Application\controller\QuizController.class
+com\nikhil\Quiz\Application\repo\QuizRepo.class
+com\nikhil\Quiz\Application\config\WebConfig.class
+com\nikhil\Quiz\Application\QuizApplication.class
+com\nikhil\Quiz\Application\entity\Question.class
